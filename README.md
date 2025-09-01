@@ -11,4 +11,4 @@ Designed for quick conversion so that you can preview and share log photos witho
 # How to use it?
 Drag your HEIF file and drop it onto the icon. Converted JPEGs will be saved in the same folder.  
 
-![image]()
+![image](https://github.com/MiFanDev/s0ny-slog3-developer/blob/main/demo.jpg)
