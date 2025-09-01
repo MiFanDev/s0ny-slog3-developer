@@ -1,2 +1,9 @@
 # S0NY Slog3 Developer
-What to take pictures with slog3? Use this tool to develop your photos!
+HEIF to JPEG Converter (S-Log3 / S-Gamut3.cine)
+
+This is a simple tool that converts 10-bit HEIF photos (recorded in Sony S-Log3 / S-Gamut3.cine) into standard 8-bit JPEGs.
+
+✔️ Input: 10-bit HEIF/HEIC (S-Log3 / S-Gamut3.cine)
+✔️ Output: 8-bit JPEG
+
+Designed for quick conversion so that you can preview and share log photos without heavy post-processing software.
