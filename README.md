@@ -9,4 +9,6 @@ This is a simple tool that converts 10-bit HEIF photos (recorded in Sony S-Log3 
 Designed for quick conversion so that you can preview and share log photos without heavy post-processing software.
 
 # How to use it?
-Drag your HEIF file and drop it onto the icon. Converted JPEGs will be saved in the same folder.
+Drag your HEIF file and drop it onto the icon. Converted JPEGs will be saved in the same folder.  
+
+![image]()
